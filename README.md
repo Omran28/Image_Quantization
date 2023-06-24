@@ -1,5 +1,5 @@
 # Image_Quantization
-An Algorithm project uses Quantization as an image processing technique that reduces the size of an image by reducing the number of colors.
+- An Algorithm project uses Quantization as an image processing technique that reduces the size of an image by reducing the number of colors.
 - Has multiple stages:
 1.	Stored all distinct colors in the image.
 2.	Calculated the distance (cost) between each node and the correct adjacent node.
